@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Bhakti Prabhu! 👋
+
+💻 **Ex Software Developer → Now a Database Administrator (DBA)**  
+🔧 **Skills:** Python | PLSQL | Oracle Database
+
+---
+
+### 👋 About Me
+
+Backend developer at heart, I love coding for the perfect blend of logic and creativity. Whether it's tackling tricky bugs or brain-teasing puzzles 🧩, I'm always up for the challenge! My journey has taken me from software development to database administration, and I enjoy every step of continuous learning and growth 😊.
+
+- 🔄 **Career Transition:** Software Developer → DBA
+- 🛠️ **Tech Stack:** Python, PLSQL, Oracle Database
+- 🚀 **Mindset:** Always learning, always growing
+- 🌱 **Interests:** Eager to explore and learn something new and interesting in almost any field!
+
+---
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhakti%20Prabhu-blue?logo=linkedin)](https://www.linkedin.com/in/bhakti-prabhu-02335b163/)
+
+---
 
 <!--
-**bhaktiprabhu/bhaktiprabhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**bhaktiprabhu/bhaktiprabhu** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
