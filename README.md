@@ -24,7 +24,7 @@ Backend developer at heart, I love coding for the perfect blend of logic and cre
 
 [![Certified Thinker](https://meatproxy.me/badge/c/9yg2z.svg)](https://meatproxy.me/c/9yg2z)
 
---
+---
 <!--
 **bhaktiprabhu/bhaktiprabhu** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
